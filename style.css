@@ -78,12 +78,17 @@ table{
 ul{
   text-align: center;
 }
+a{
+    background-color: black;
+}
 
 table {
 margin: auto;
 border-style: solid;
 border-spacing: no inherit;
 text-align: center;
+opacity: 1;
+background-color: black;
 }
 
 tr{
