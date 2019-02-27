@@ -1,0 +1,107 @@
+head{
+  color: #FFDB58;
+}
+
+body{
+  text-align: center;
+  front-size: 15px;
+  line-height: 150%;
+  font-family: fantasy,Helvetica,Arial,Verdana,sans-serif;
+  background: url(lol.jpg) no-repeat center top;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #66999;
+  font- #FFDB58;
+  color: inherit;
+}
+
+h1{
+  color:  #FFDB58;
+  text-align: center;
+  front-size: 30px;
+  text-shadow: 1px 2px #094293 ;
+}
+
+h2,h3,h4,h5,h6,h7,h8{
+  color:  #FFDB58;
+  text-align: center;
+  front-size: 20px;
+  text-shadow: 1px 2px #094293;
+}
+
+dt{
+    color:  #FFDB58;
+    text-align: center;
+    front-size: 20px;
+    text-shadow: 1px 2px #094293;
+}
+
+dd{
+    color:  #FFDB58;
+    text-align: center;
+    front-size: 10px;
+    text-shadow: 1px 2px #094293;
+}
+
+p{
+  color:  #FFDB58;
+  text-align: center;
+  front-size: 10px;
+  text-shadow: 1px 2px #094293;
+}
+ol{
+    color:  #FFDB58;
+    text-align: center;
+    front-size: 10px;
+    text-shadow: 1px 2px #094293;
+}
+
+a{
+    color:  #FFDB58;
+    text-align: center;
+    front-size: 10px;
+}
+
+tr{
+  color:  #FFDB58;
+  text-align: center;
+  front-size: 20px;
+  text-shadow: 1px 2px #094293;
+}
+
+table{
+  border-color: #094293;
+}
+
+ul{
+  text-align: center;
+}
+
+table {
+margin: auto;
+border-style: solid;
+border-spacing: no inherit;
+text-align: center;
+}
+
+tr{
+border : 5;
+}
+
+li.menu{
+  display: inline-block;
+  font-size-adjust: 2em;
+  margin: 30px;
+  padding: 0;
+  font-family: fantasy,Helvetica,Arial,Verdana,sans-serif;
+  text-decoration: none;
+  float: adjust;
+  background-color: #094293;
+  padding-bottom: 1px;
+}
+
+ol{
+  text-align: center;
+}
